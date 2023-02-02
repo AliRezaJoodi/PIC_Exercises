@@ -1,0 +1,24 @@
+# Operating System folders and files for ignore
+desktop.ini
+
+# Personal folders and files for ignore
+_Pending
+
+# Proteus folders and files for ignore
+Project Backups
+*.workspace
+*.BMP
+
+# Code_mikroC Pro for PIC folders and files for ignore
+*.dbg
+*.dct
+*.dlt
+*.log
+*.lst
+*.dic
+*.asm
+*.cp
+*.mcl
+
+
+
