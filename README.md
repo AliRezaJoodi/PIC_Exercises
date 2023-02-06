@@ -1,5 +1,5 @@
 ## PIC Programming Exercises
-I'm uploading my personal files on the repository.
+A repository for my personal exercises.
 
 ### Gallery of the Repository
 ![](Display_LCD/Simulate/Album.png)
@@ -7,7 +7,7 @@ I'm uploading my personal files on the repository.
 ![](Sensor_Thermometer_LM35/Simulate/Album.png)
 ![](UART_Config/Simulate/Album.png)
 
-### List of the Repository
+### Table of Contents
 |Title|mikroC for PIC|PIC Basic PRO|
 |:----|:------------:|:-----------:|
 |[ADC](ADC)|Y|-|
