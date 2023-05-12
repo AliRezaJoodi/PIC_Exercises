@@ -16,8 +16,7 @@ It has included:
 
 Principle of switching and waveforms Full bridge:
 ![](https://forums.aeva.asn.au/download/file.php?id=4965)
-
-[More info](https://forums.aeva.asn.au/viewtopic.php?p=92624#p92624)
+[Image URL](https://forums.aeva.asn.au/viewtopic.php?p=92624#p92624)
 
 My GitHub Account: [GitHub.com/AliRezaJoodi](https://github.com/AliRezaJoodi)  
 **Note**: [You can go here to download a single folder or file from GitHub.com](https://minhaskamal.github.io/DownGit/#/home)
