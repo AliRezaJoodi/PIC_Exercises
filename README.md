@@ -14,4 +14,5 @@ A repository for my personal exercises.
 |[Button](Button)|Y|-|
 |[Display_LCD](Display_LCD)|Y|-|
 |[Sensor_Thermometer_LM35](Sensor_Thermometer_LM35)|Y|-|
+|[SineWaveGeneration](SineWaveGeneration)|Y|-|
 |[UART_Config](UART_Config)|Y|-|
